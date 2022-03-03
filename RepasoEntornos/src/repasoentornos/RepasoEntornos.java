@@ -14,12 +14,11 @@ public class RepasoEntornos {
      * @return Devuelve el numero multiplicado por x y y
      */
     public int multiplica(int x, int y) {
-        return x*y;
+        return x * y;
     }
 
     /**
-     * Metodo main 
-     *
+     * Metodo main
      * @param args the command line arguments
      */
     public static void main(String[] args) {
